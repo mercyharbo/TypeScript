@@ -1,0 +1,45 @@
+# TypeScript
+node_modules/
+dist/
+*.js
+*.js.map
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.code-workspace
+
+# Compiled output
+/out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+# (if you use npm for package management)
+.pnpm-store/
+.pnpm-workspace.yaml
+.pnpmrc
+
+# TypeScript project configuration
+tsconfig.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Pnpm
+pnpm-lock.yaml
+
+# ESLint
+.eslintcache
